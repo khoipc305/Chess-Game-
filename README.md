@@ -4,6 +4,14 @@
 
 This project implements a chess-playing application that **replaces the traditional Minimax algorithm's Piece-Square Table (PST) evaluation with a machine learning-based evaluation system**. The ML model uses a trained neural network to evaluate chess positions and select optimal moves.
 
+
+## TESTING RESULTS 
+<img width="799" height="580" alt="Testing w 500K data sample - 1" src="https://github.com/user-attachments/assets/cc15ef2c-9b11-44ab-838e-0f75ab003400" />
+
+<img width="809" height="602" alt="Testing w 500K data sample - 2" src="https://github.com/user-attachments/assets/c81c3dd4-3f12-4c72-be9d-cf6120f24cbd" />
+
+<img width="809" height="584" alt="Testing w 500K data sample" src="https://github.com/user-attachments/assets/aa9ea01a-e328-4cdb-8154-0fff924f82ae" />
+
 ---
 
 ## 🎯 Project Objectives
