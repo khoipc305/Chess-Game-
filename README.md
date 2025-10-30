@@ -27,6 +27,22 @@ HW2/
 └── README.md                    # This file
 ```
 
+<img width="777" height="548" alt="image" src="https://github.com/user-attachments/assets/bb2011b1-6571-41c7-b0c5-2af214d280e8" />
+
+<img width="776" height="555" alt="image" src="https://github.com/user-attachments/assets/fb06f544-96d7-4147-a3b5-8b36a4aa0edd" />
+
+<img width="780" height="550" alt="image" src="https://github.com/user-attachments/assets/9a8c5bbe-6756-48c6-b725-50e2c7893e7f" />
+
+<img width="782" height="547" alt="image" src="https://github.com/user-attachments/assets/b4add564-69fa-4f5c-a9e1-051b2569510a" />
+
+<img width="788" height="547" alt="image" src="https://github.com/user-attachments/assets/a2d86691-897f-43db-a3fa-177fbe675252" />
+
+<img width="799" height="543" alt="image" src="https://github.com/user-attachments/assets/9405a7d5-f78a-4b94-873f-093fde8fde93" />
+
+<img width="786" height="542" alt="image" src="https://github.com/user-attachments/assets/00912ba9-eaff-484e-b429-b522067fa54a" />
+
+<img width="787" height="546" alt="image" src="https://github.com/user-attachments/assets/ebddbe3a-af54-4db3-afe4-73470a45e0e4" />
+
 ---
 
 ## 🚀 Setup Instructions
