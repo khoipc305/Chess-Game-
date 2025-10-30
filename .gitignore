@@ -1,0 +1,21 @@
+# Model files (too large for git)
+chess_eval_model.pth
+scaler.pkl
+
+# Dataset
+archive/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Virtual environment
+venv/
+env/
